@@ -24,11 +24,10 @@ I enjoy numerical simulations, building tiny tools, and writing code just for fu
 
 ## 📊 GitHub Stats
 
-![qjv's GitHub stats](https://github-readme-stats.vercel.app/api?username=qjv&show_icons=true&hide_title=true&hide_rank=true&theme=default)
+![qjv's GitHub stats](https://github-readme-stats.vercel.app/api?username=qjv&show_icons=true&hide_title=true&hide_rank=true&theme=radical)
 
 ---
 
 ## 📫 Get in Touch
 
-📧 tlmmc@proton.me  
-🔗 [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(optional)*  
+📧 tlmmc@proton.me
