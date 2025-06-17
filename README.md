@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Túlio
 
 I'm a Master's graduate in Materials Science and Engineering, currently pursuing a PhD at PPG-CEM (UFSCar).  
-I enjoy numerical simulations, building tiny tools, and writing code just for fun—or for research!
+I enjoy numerical simulations, building tiny tools, and writing code just for fun... or for research!
 
 ---
 
