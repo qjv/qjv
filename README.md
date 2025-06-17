@@ -1,16 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20I%27m%20qjv!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-<!--
-**qjv/qjv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: qjv
+role: phd student
+location: São Carlos, Brazil
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![qjv's GitHub stats](https://github-readme-stats.vercel.app/api?username=qjv&show_icons=true)
+![qjv's streak](https://github-readme-streak-stats.herokuapp.com/?user=qjv)
