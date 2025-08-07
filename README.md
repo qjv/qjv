@@ -16,15 +16,9 @@ I enjoy numerical simulations, building tiny tools, and writing code just for fu
 
 ## 🛠️ Tools & Technologies
 
-- 🐍 Python (data viz, FEM, automation)  
-- 🦀 Rust (learning & loving it!)  
+- 🐍 Python
+- 🦀 Rust 
 - 🖥️ CLI tools, Flask micro-apps
-
----
-
-## 📊 GitHub Stats
-
-![qjv's GitHub stats](https://github-readme-stats.vercel.app/api?username=qjv&show_icons=true&hide_title=true&hide_rank=true&theme=radical)
 
 ---
 
